@@ -1,16 +1,10 @@
-Here’s a clean, professional README for your project **“quic-c2”**:
-
----
-
 # quic-c2
-
-
 
 ---
 
 ## Features
 
-* Persistent QUIC connections to multiple devices.
+* Persistent QUIC connections to multiple devices (`quic-go`).
 * Terminal-based UI using **TUI** (`tview`).
 * Send commands to selected devices in real-time.
 * Continuous output streaming from each device.
@@ -59,6 +53,6 @@ quic-c2/
 Open for contributions: anyone can add new features or add more client-side commands.
 
 ⚠️ **Disclaimer:**  
-This project is for **educational purposes only**. It is **not intended for production use**.  
-The code may contain **incomplete, untested, or unsafe implementations**.  
-Use it at your own risk and **do not deploy it in a live environment**.  
+**This project is for _educational purposes only_.**  
+Do **not** use this code to access, attack, or interfere with systems without explicit, written permission.  
+Use only in isolated lab environments — **use at your own risk**; authors disclaim liability.
